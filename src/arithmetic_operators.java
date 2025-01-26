@@ -1,4 +1,5 @@
-public class operator {
+//arithmetic operators in JAVA
+public class arithmetic_operators {
     public static void main(String []args)
     {
         int a=50;

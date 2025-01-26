@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "relational_operator",
+            "request": "launch",
+            "mainClass": "relational_operator",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "operator",
             "request": "launch",
             "mainClass": "operator",
