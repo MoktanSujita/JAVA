@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "return_state",
+            "request": "launch",
+            "mainClass": "return_state",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "jump_sta",
+            "request": "launch",
+            "mainClass": "jump_sta",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "b",
+            "request": "launch",
+            "mainClass": "b",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "control_sta",
             "request": "launch",
             "mainClass": "control_sta",
