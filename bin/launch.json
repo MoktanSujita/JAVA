@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "return_state",
             "request": "launch",
             "mainClass": "return_state",
