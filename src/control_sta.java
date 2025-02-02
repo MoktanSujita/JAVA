@@ -1,5 +1,5 @@
 //control Statements in JAVA
-public class control_sta {
+/*public class control_sta {
     public static void main(String[] args) {
         
        //if statement
@@ -51,7 +51,7 @@ public class control_sta {
                 i++;   
                 
             //do ... while loop
-            /*int i=3;
+            int i=3;
             do {
                 System.out.println(a);
                 a++;   
@@ -61,7 +61,7 @@ public class control_sta {
             for (int j = 0; j < 5; j++) {
                 System.out.println(j);    
             }
-            */
+            
                 //for each loop
                 int[]intarr=new int[]{1,2,3,4,5};
                 for (int i : intarr) {
@@ -70,6 +70,6 @@ public class control_sta {
                 }
         }
  
-    }
+    }*/
     
 
