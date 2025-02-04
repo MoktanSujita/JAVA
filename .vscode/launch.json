@@ -3,6 +3,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mod_acc",
+            "request": "launch",
+            "mainClass": "mod_acc",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "inheri",
+            "request": "launch",
+            "mainClass": "inheri",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "subclass",
+            "request": "launch",
+            "mainClass": "subclass",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "apps",
+            "request": "launch",
+            "mainClass": "apps",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "access_mod",
+            "request": "launch",
+            "mainClass": "access_mod",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "constructor",
             "request": "launch",
             "mainClass": "constructor",
