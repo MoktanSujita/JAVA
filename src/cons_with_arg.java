@@ -1,7 +1,7 @@
 public class cons_with_arg
 {
     public static void main(String[] args) throws Exception {
-        MyClass obj=new MyClass( 5,  6);
+        MyClass obj=new MyClass(5,6);
         obj.Add();
     }
     

@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cons_for_ari_op",
+            "request": "launch",
+            "mainClass": "assignment.cons_for_ari_op",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "mod_acc",
             "request": "launch",
             "mainClass": "mod_acc",
