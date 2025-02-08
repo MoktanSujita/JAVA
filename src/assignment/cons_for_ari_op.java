@@ -2,8 +2,8 @@
 
 class cons_for_ari_op {
 
-    public static void main(String[] args) throws Exception {
-        MyClass obj=new MyClass(8,5);
+    public static void main(String [] args) throws Exception {
+        MyClass obj=new MyClass (8,5);
         obj.Add();
         obj.Sub();
         obj.Mul();
@@ -18,22 +18,22 @@ class MyClass
         a=first;
         b=second;
     }
-    public void Add()
+    public void Add ()
     {
-       System.out.println(a+b);
+       System.out.println("Sum:" +(a+b));
     }
-    public void Sub()
+    public void Sub ()
     {
-        System.out.println(a-b);
+        System.out.println("Difference:" +(a-b));
     }
-    public void Mul()
+    public void Mul ()
     {
-        System.out.println(a*b);
+        System.out.println("Multiplication:" +(a*b));
     }
-    public void Div()
+    public void Div ()
     {
 
-        System.out.println(a/b);
+        System.out.println("Division:" +(a/b));
     }
 
 }
