@@ -1,4 +1,5 @@
-public class mult {
+package assignment;
+public class multiple {
     public static void main(String[] args) throws Exception {
         C obj=new C();
        int sum= obj.Add(3,2);

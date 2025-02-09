@@ -5,6 +5,13 @@
             "type": "java",
             "name": "mult",
             "request": "launch",
+            "mainClass": "assignment.mult",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "mult",
+            "request": "launch",
             "mainClass": "mult",
             "projectName": "javaProject_8f401c1d"
         },
