@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mult",
+            "request": "launch",
+            "mainClass": "mult",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "multi",
+            "request": "launch",
+            "mainClass": "multi",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "mult_level",
+            "request": "launch",
+            "mainClass": "mult_level",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "simple_in",
+            "request": "launch",
+            "mainClass": "simple_in",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "cons_for_ari_op",
             "request": "launch",
             "mainClass": "assignment.cons_for_ari_op",
