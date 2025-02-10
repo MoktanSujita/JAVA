@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "com_poly",
+            "request": "launch",
+            "mainClass": "com_poly",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "chain",
+            "request": "launch",
+            "mainClass": "chain",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "mult",
             "request": "launch",
             "mainClass": "assignment.mult",
