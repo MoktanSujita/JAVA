@@ -21,3 +21,16 @@ class Student
         System.out.println("Single parameter" +x);
     }
 }
+/*class rectangle
+ * {
+ * int a; ->instance variable
+ * int b;
+ * public Rectangle(int a,int b)->local variable
+ * {
+ * this.a=a;
+ * this.b=b;
+ * }
+ * }
+ * current class methods and field
+ * difference betwen local and static variable
+ */

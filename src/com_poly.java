@@ -1,4 +1,4 @@
-public class com_poly {
+public class com_poly { //compile time
     public static void main(String[] args) {
         Calculator cal=new Calculator();
         System.out.println(cal.add(4,5));

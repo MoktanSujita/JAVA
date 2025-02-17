@@ -3,7 +3,7 @@ public class encap {
     public static void main(String[] args)
      {
          Calculation cal=new Calculation(4, 9);
-         cal.Add();
+         cal.add();
         
     }
     
@@ -17,7 +17,7 @@ class Calculation
         this.a=a;
         this.b=b;
     }
-    public void Add()
+    public void add()
     {
         System.out.println(a+b);
     }

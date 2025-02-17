@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dynamic_reso",
+            "request": "launch",
+            "mainClass": "dynamic_reso",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "call_by_value",
+            "request": "launch",
+            "mainClass": "call_by_value",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "anony",
+            "request": "launch",
+            "mainClass": "anony",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "run_poly",
+            "request": "launch",
+            "mainClass": "run_poly",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "com_poly",
             "request": "launch",
             "mainClass": "com_poly",

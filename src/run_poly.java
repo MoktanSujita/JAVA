@@ -1,4 +1,4 @@
-public class run_poly {
+public class run_poly {  //overloading
     public static void main(String[] args) {
         Dog an=new Dog();
         an.eat();
