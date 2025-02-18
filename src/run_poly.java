@@ -12,7 +12,7 @@ class Animal
        System.out.println("Dog eats.");
     }
 }
-    class Dog extends Animal
+ class Dog extends Animal
     {
         public void eat()
         {  
