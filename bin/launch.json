@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "userdefined_ex",
+            "request": "launch",
+            "mainClass": "userdefined_ex",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "exception",
             "request": "launch",
             "mainClass": "exception",
