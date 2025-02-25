@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bytestream",
+            "request": "launch",
+            "mainClass": "bytestream",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "userdefined_ex",
             "request": "launch",
             "mainClass": "userdefined_ex",
