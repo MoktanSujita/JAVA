@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "read_write",
+            "request": "launch",
+            "mainClass": "read_write",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "bytestream",
             "request": "launch",
             "mainClass": "bytestream",
