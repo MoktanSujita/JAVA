@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "get_set",
+            "request": "launch",
+            "mainClass": "get_set",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
+            "name": "seri_desi",
+            "request": "launch",
+            "mainClass": "seri_desi",
+            "projectName": "javaProject_8f401c1d"
+        },
+        {
+            "type": "java",
             "name": "read_write",
             "request": "launch",
             "mainClass": "read_write",

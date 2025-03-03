@@ -1,4 +1,4 @@
-import java.io.FileReader;
+/*import java.io.FileReader;
 import java.io.FileWriter;
 
 public class read_write {
@@ -24,3 +24,4 @@ public class read_write {
     }
     
 }
+    */
